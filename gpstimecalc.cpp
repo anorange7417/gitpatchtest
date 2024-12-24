@@ -1,1 +1,0 @@
-# GetGPSTime Function Documentation
